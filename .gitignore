@@ -28,6 +28,14 @@ misc/dashboard/builder/gobuilder
 misc/goplay/goplay
 src/Make.inc
 src/cmd/6a/6a
+src/cmd/6c/6c
+src/cmd/6g/6g
+src/cmd/6l/6l
+src/cmd/cov/6cov
+src/cmd/godefs/godefs
+src/cmd/gopack/gopack
+src/cmd/nm/6nm
+src/cmd/prof/6prof
 src/cmd/?l/enam.c
 src/cmd/cc/y.output
 src/cmd/gc/builtin.c

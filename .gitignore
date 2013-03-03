@@ -67,3 +67,4 @@ test/garbage/*.out
 goinstall.log
 /bin/
 /pkg/
+/rootfs/
